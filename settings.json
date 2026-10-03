@@ -4,7 +4,7 @@
     "username": "AbuOG",
     "password": "",
     "type": "offline"
-  },
+    },
   "server": {
     "ip": "toxicland.playserver.pro",
     "port": 23603,
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
